@@ -1,4 +1,1 @@
-python-daemon
-=============
-
-python-daemon
+doc/FAQ
